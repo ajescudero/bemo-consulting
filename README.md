@@ -1,9 +1,9 @@
 # Bemo Challenge
 
-A) Create a duplicate of this sister website of ours (http://cdainterview.com/)
+A) Create a duplicate of this sister website of ours (http://cdainterview.com/).
 B) Of course it is completely OK to copy and paste the images, text, and other
 resources from the existing site, but the back-end should be using your own code
-(more details about the user-friendly backend below)
+(more details about the user-friendly backend below).
 
 C) Your duplicated website should only include the home page and the contact us
 page – other pages are not required.
